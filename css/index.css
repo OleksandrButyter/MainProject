@@ -78,3 +78,8 @@ img {
     height: 450px;
     width: 396px;
 }
+
+body {
+    background-image: url("image/bg_frontend.jpg");
+    animation: zooming 18s infinite both;
+}
