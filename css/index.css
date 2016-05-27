@@ -1,6 +1,7 @@
 html, body {
     margin: 0 auto;
     padding: 0;
+    background-image: url("image/bg_frontend.jpg");
 }
 
 header {
@@ -73,10 +74,10 @@ main {
 
 img {
     position: fixed;
-    left: 0;
+    left: 100;
     top: 85px;
-    height: 450px;
-    width: 396px;
+    height: 225px;
+    width: 198px;
 }
 
 body {
