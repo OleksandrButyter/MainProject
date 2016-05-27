@@ -52,6 +52,20 @@ li a:hover:not(.active) {
 }
 
 main {
+    position: relative;
+    top: 70px;
     max-width: 1200px;
     margin: 0 auto;
+}
+
+#home {
+    background-color: red;
+}
+
+#about {
+    background-color: green;
+}
+
+#experience {
+    background-color: blue;
 }
