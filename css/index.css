@@ -56,7 +56,7 @@ main {
     position: relative;
     top: 70px;
     max-width: 800px;
-    margin: 0 auto;
+   left: 265px;
     z-index: -1;
 }
 
@@ -74,7 +74,7 @@ main {
 
 img {
     position: fixed;
-    left: 100;
+    left: 50px;
     top: 85px;
     height: 225px;
     width: 198px;
