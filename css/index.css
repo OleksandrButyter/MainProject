@@ -56,8 +56,14 @@ main {
     position: relative;
     top: 70px;
     max-width: 800px;
-   left: 265px;
+    margin: 0 auto;
     z-index: -1;
+}
+
+section {
+   position: absolute;
+   width: 600px;
+   left: 200px;
 }
 
 #home {
@@ -73,9 +79,9 @@ main {
 }
 
 img {
-    position: fixed;
-    left: 50px;
-    top: 85px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
     height: 225px;
     width: 198px;
 }
