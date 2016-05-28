@@ -1,7 +1,6 @@
 html, body {
     margin: 0 auto;
     padding: 0;
-    background-image: url("image/bg_frontend.jpg");
 }
 
 header {
@@ -45,7 +44,6 @@ li a {
 
 li a:hover:not(.active) {
     background-color: #224477;
-    
 }
 
 .active {
@@ -88,5 +86,5 @@ img {
 
 body {
     background-image: url("image/bg_frontend.jpg");
-    animation: zooming 18s infinite both;
+    
 }
