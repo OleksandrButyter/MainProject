@@ -70,6 +70,14 @@ main {
     background-color: blue;
 }
 
+#references {
+    background-color: yellow;
+}
+
+#contact {
+    background-color: purple;
+}
+
 #img {
     display: none;
     position: fixed;

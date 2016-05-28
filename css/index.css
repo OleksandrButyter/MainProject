@@ -77,6 +77,14 @@ main {
     background-color: blue;
 }
 
+#references {
+    background-color: yellow;
+}
+
+#contact {
+    background-color: purple;
+}
+
 #img {
     position: fixed;
     top: 90px;
