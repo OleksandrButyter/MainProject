@@ -20,20 +20,13 @@ nav {
 }
 
 ul {
-    display: none;
     list-style-type: none;
-    height: 70px;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #2b5797;
 }
 
-li {
-    float: left;
-    height: 70px;
-    vertical-align: middle;
-}
 
 li a {
     display: block;
@@ -63,7 +56,7 @@ main {
 #section {
    position: absolute;
    width: 100%;
-    margin: 0px 10px 0px;
+    margin: 10px;
 }
 
 
