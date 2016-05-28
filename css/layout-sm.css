@@ -9,6 +9,7 @@ header {
     width: 100%;
     background-color: #2b5797;
     margin: 0 auto;
+    min-width: 320px;
 }
 
 nav {
