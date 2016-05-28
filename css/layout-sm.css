@@ -14,7 +14,6 @@ header {
 
 nav {
     max-width: 800px;
-    height: 70px;
     background-color: #2b5797;
     margin: 0 auto;
 }
@@ -30,10 +29,9 @@ ul {
 
 li a {
     display: block;
-    height: 70px;
+    height: 50px;
     color: white;
     text-align: center;
-    padding: 20px 50px 20px;
     text-decoration: none;
 }
 
