@@ -45,7 +45,7 @@ li a:hover:not(.active) {
 
 main {
     position: relative;
-    top: 70px;
+    top: 420px;
     max-width: 800px;
     margin: 0 auto;
     z-index: -1;
