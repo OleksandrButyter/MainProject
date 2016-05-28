@@ -76,7 +76,6 @@ main {
     top: 90px;
     height: 225px;
     width: 198px;
-    margin: 0 auto;
 }
 
 body {
@@ -90,4 +89,6 @@ body {
     height: 50px;
     border-radius:50px;
     z-index: 0;
+    display: block; 
+    margin: 0 auto; 
 }
