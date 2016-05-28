@@ -77,7 +77,7 @@ main {
     background-color: blue;
 }
 
-img {
+#img {
     position: fixed;
     top: 90px;
     height: 225px;
@@ -89,3 +89,6 @@ body {
     
 }
 
+#imgs {
+    display: none;
+}
