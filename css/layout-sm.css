@@ -1,0 +1,92 @@
+html, body {
+    margin: 0 auto;
+    padding: 0;
+}
+
+header {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    background-color: #2b5797;
+    margin: 0 auto;
+}
+
+nav {
+    max-width: 800px;
+    height: 70px;
+    background-color: #2b5797;
+    margin: 0 auto;
+}
+
+ul {
+    list-style-type: none;
+    height: 70px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2b5797;
+}
+
+li {
+    float: left;
+    height: 70px;
+    vertical-align: middle;
+}
+
+li a {
+    display: block;
+    height: 70px;
+    color: white;
+    text-align: center;
+    padding: 20px 50px 20px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #224477;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+main {
+    position: relative;
+    top: 70px;
+    max-width: 800px;
+    margin: 0 auto;
+    z-index: -1;
+}
+
+#section {
+    display: none;
+   position: absolute;
+   width: 590px;
+   left: 210px;
+}
+
+
+#home {
+    background-color: red;
+}
+
+#about {
+    background-color: green;
+}
+
+#experience {
+    background-color: blue;
+}
+
+img {
+    position: fixed;
+    top: 90px;
+    height: 225px;
+    width: 198px;
+}
+
+body {
+    background-image: url("image/bg_frontend.jpg");
+    
+}
+
