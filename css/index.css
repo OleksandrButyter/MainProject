@@ -66,6 +66,7 @@ main {
    left: 200px;
 }
 
+
 #home {
     background-color: red;
 }
@@ -79,7 +80,7 @@ main {
 }
 
 img {
-    position: absolute;
+    position: fixed;
     left: 0px;
     top: 0px;
     height: 225px;
